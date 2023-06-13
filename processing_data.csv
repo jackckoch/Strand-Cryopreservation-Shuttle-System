@@ -1,0 +1,82 @@
+time.sec,straw.num,strand.num,operator,operation,step,group,avg.group,operation2
+103,10,10,Jack,Plunge,Straw filling,Plunge,1,Plunge
+95,10,10,Jack,Plunge,Straw filling,Plunge,1,Plunge
+81,10,10,Jack,Plunge,Straw filling,Plunge,1,Plunge
+96,10,30,Jack,Cassette,Straw filling,Cassette,1,Cassette
+81,10,30,Jack,Cassette,Straw filling,Cassette,1,Cassette
+94,10,30,Jack,Cassette,Straw filling,Cassette,1,Cassette
+143,10,10,Ally,Plunge,Straw filling,Plunge,1,Plunge
+140,10,10,Ally,Plunge,Straw filling,Plunge,1,Plunge
+134,10,10,Ally,Plunge,Straw filling,Plunge,1,Plunge
+102,10,10,Ally,Plunge,Straw filling,Plunge,1,Plunge
+123,10,30,Ally,Cassette,Straw filling,Cassette,1,Cassette
+131,10,30,Ally,Cassette,Straw filling,Cassette,1,Cassette
+109,10,30,Ally,Cassette,Straw filling,Cassette,1,Cassette
+126,10,10,Ally,Plunge,Straw filling,Plunge,1,Plunge
+132,10,10,Ally,Plunge,Straw filling,Plunge,1,Plunge
+130,10,10,Ally,Plunge,Straw filling,Plunge,1,Plunge
+124,10,30,Ally,Cassette,Straw filling,Cassette,1,Cassette
+131,10,30,Ally,Cassette,Straw filling,Cassette,1,Cassette
+127,10,30,Ally,Cassette,Straw filling,Cassette,1,Cassette
+232,30,30,Jack,Load cassette,Loading straws,Cassette,2,Load cassette
+195,30,30,Jack,Load cassette,Loading straws,Cassette,2,Load cassette
+228,30,30,Jack,Load cassette,Loading straws,Cassette,2,Load cassette
+106,10,10,Jack,Plunge load,Loading straws,Plunge,2,Plunge load
+81,10,10,Jack,Plunge load,Loading straws,Plunge,2,Plunge load
+81,10,10,Jack,Plunge load,Loading straws,Plunge,2,Plunge load
+76,30,30,Jack,Load cassette,Loading straws,Cassette,2,Cassette load
+53,30,30,Jack,Load cassette,Loading straws,Cassette,2,Cassette load
+39,30,30,Jack,Load cassette,Loading straws,Cassette,2,Cassette load
+217,30,30,Ally,Load cassette,Loading straws,Cassette,2,Load cassette
+292,30,30,Ally,Load cassette,Loading straws,Cassette,2,Load cassette
+314,30,30,Ally,Load cassette,Loading straws,Cassette,2,Load cassette
+81,10,10,Ally,Plunge load,Loading straws,Plunge,2,Plunge load
+105,10,10,Ally,Plunge load,Loading straws,Plunge,2,Plunge load
+110,10,10,Ally,Plunge load,Loading straws,Plunge,2,Plunge load
+142,30,30,Ally,Load cassette,Loading straws,Cassette,2,Cassette load
+232,30,30,Ally,Load cassette,Loading straws,Cassette,2,Cassette load
+129,30,30,Ally,Load cassette,Loading straws,Cassette,2,Cassette load
+278,30,30,Ally,Load cassette,Loading straws,Cassette,2,Load cassette
+298,30,30,Ally,Load cassette,Loading straws,Cassette,2,Load cassette
+287,30,30,Ally,Load cassette,Loading straws,Cassette,2,Load cassette
+71,10,10,Ally,Plunge load,Loading straws,Plunge,2,Plunge load
+87,10,10,Ally,Plunge load,Loading straws,Plunge,2,Plunge load
+94,10,10,Ally,Plunge load,Loading straws,Plunge,2,Plunge load
+88,30,30,Ally,Load cassette,Loading straws,Cassette,2,Cassette load
+88,30,30,Ally,Load cassette,Loading straws,Cassette,2,Cassette load
+69,30,30,Ally,Load cassette,Loading straws,Cassette,2,Cassette load
+61,10,10,Jack,Ultrasonic sealing,Sealing Straws,Plunge,3,Ultrasonic sealing
+70,10,10,Jack,Ultrasonic sealing,Sealing Straws,Plunge,3,Ultrasonic sealing
+50,10,10,Jack,Ultrasonic sealing,Sealing Straws,Plunge,3,Ultrasonic sealing
+30,10,30,Jack,Sealing balls,Sealing Straws,Cassette,3,Sealing balls
+25,10,30,Jack,Sealing balls,Sealing Straws,Cassette,3,Sealing balls
+23,10,30,Jack,Sealing balls,Sealing Straws,Cassette,3,Sealing balls
+123,10,10,Ally,Ultrasonic sealing,Sealing Straws,Plunge,3,Ultrasonic sealing
+62,10,10,Ally,Ultrasonic sealing,Sealing Straws,Plunge,3,Ultrasonic sealing
+39,10,10,Ally,Ultrasonic sealing,Sealing Straws,Plunge,3,Ultrasonic sealing
+101,10,30,Ally,Sealing balls,Sealing Straws,Cassette,3,Sealing balls
+93,10,30,Ally,Sealing balls,Sealing Straws,Cassette,3,Sealing balls
+87,10,30,Ally,Sealing balls,Sealing Straws,Cassette,3,Sealing balls
+43,10,10,Ally,Ultrasonic sealing,Sealing Straws,Plunge,3,Ultrasonic sealing
+47,10,10,Ally,Ultrasonic sealing,Sealing Straws,Plunge,3,Ultrasonic sealing
+37,10,10,Ally,Ultrasonic sealing,Sealing Straws,Plunge,3,Ultrasonic sealing
+110,10,30,Ally,Sealing balls,Sealing Straws,Cassette,3,Sealing balls
+90,10,30,Ally,Sealing balls,Sealing Straws,Cassette,3,Sealing balls
+116,10,30,Ally,Sealing balls,Sealing Straws,Cassette,3,Sealing balls
+61,10,10,Jack,Plunge method unload,Unloading straws,Plunge,4,Plunge method unload
+61,10,10,Jack,Plunge method unload,Unloading straws,Plunge,4,Plunge method unload
+60,10,10,Jack,Plunge method unload,Unloading straws,Plunge,4,Plunge method unload
+82,10,30,Jack,Cassette method unload,Unloading straws,Cassette,4,Cassette method unload
+76,10,30,Jack,Cassette method unload,Unloading straws,Cassette,4,Cassette method unload
+56,10,30,Jack,Cassette method unload,Unloading straws,Cassette,4,Cassette method unload
+107,10,10,Ally,Plunge method unload,Unloading straws,Plunge,4,Plunge method unload
+93,10,10,Ally,Plunge method unload,Unloading straws,Plunge,4,Plunge method unload
+130,10,30,Ally,Cassette method unload,Unloading straws,Cassette,4,Cassette method unload
+101,10,30,Ally,Cassette method unload,Unloading straws,Cassette,4,Cassette method unload
+82,10,30,Ally,Cassette method unload,Unloading straws,Cassette,4,Cassette method unload
+58,10,10,Ally,Plunge method unload,Unloading straws,Plunge,4,Plunge method unload
+63,10,10,Ally,Plunge method unload,Unloading straws,Plunge,4,Plunge method unload
+49,10,10,Ally,Plunge method unload,Unloading straws,Plunge,4,Plunge method unload
+125,10,30,Ally,Cassette method unload,Unloading straws,Cassette,4,Cassette method unload
+68,10,30,Ally,Cassette method unload,Unloading straws,Cassette,4,Cassette method unload
+73,10,30,Ally,Cassette method unload,Unloading straws,Cassette,4,Cassette method unload
