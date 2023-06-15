@@ -1,4 +1,4 @@
-# Strand-Cryopreservation-Shuttle-System
+# Strand-Cryopreservation-Shuttle-System (LSU AgCenter)
 Dataset and R code for Aplysia egg strand time study comparing improvised and open-hardware devices.
 
 [1] AplysiaEM_Sizing_Packaging.R: R file including all code for analyses and graphs
